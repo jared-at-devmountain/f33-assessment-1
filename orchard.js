@@ -49,6 +49,8 @@ const pinkPrice = .55
     Log `totalAcres` to the console.
 */
 
+//does one loop to sum up all of the acres picked: assumes acre arrays are 7 long
+
 // CODE HERE
 let totalAcres = 0
 for (let i = 0; i < 7; i++) {
@@ -70,6 +72,9 @@ console.log(totalAcres)
 */
 
 // CODE HERE
+
+//gets the average of daily acres picked for ALL THREE fields: assumes 7 days only
+
 let averageDailyAcres = totalAcres / 7
 
 console.log(averageDailyAcres)
