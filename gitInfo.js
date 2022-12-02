@@ -10,6 +10,7 @@
 */
 
 //CODE HERE
+const gitDefinition = "git is a version control software that is open source"
 
 //////////////////PROBLEM 2////////////////////
 /*
@@ -18,6 +19,7 @@
 */
 
 //CODE HERE
+const githubDefinition = "Github is a cloud service, website, and company that enables backup, management, and sharing of git repositories"
 
 //////////////////PROBLEM 3////////////////////
 /*
@@ -26,6 +28,7 @@
 */
 
 //CODE HERE
+const gitInitDefinition = "creates a new git repository at the current directory"
 
 //////////////////PROBLEM 4////////////////////
 /*
@@ -34,6 +37,7 @@
 */
 
 //CODE HERE
+const gitCloneDefinition = "make a local copy of an existing git repository at the current directory"
 
 //////////////////PROBLEM 5////////////////////
 /*
@@ -42,6 +46,7 @@
 */
 
 //CODE HERE
+const gitStatusDefinition = "shows the status of the git repository at your current location"
 
 //////////////////PROBLEM 6////////////////////
 /*
@@ -53,6 +58,8 @@
 */
 
 //CODE HERE
+const gitAddDefinition = "gives the ability to stage any file changes to be committed"
+const gitAddCode = "git add ."
 
 //////////////////PROBLEM 7////////////////////
 /*
@@ -64,6 +71,8 @@
 */
 
 //CODE HERE
+const gitCommitDefinition = "makes a log and adds to a history, the staged changes in your repository (makes a snapshot)"
+const gitCommitCode = "git commit -m \"initial commit\""
 
 
 //////////////////PROBLEM 8////////////////////
@@ -73,3 +82,4 @@
 */
 
 //CODE HERE
+const gitPushDefinition = "updates any specified remotes to be updated to local new commits or changes"
